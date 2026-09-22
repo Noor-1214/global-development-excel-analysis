@@ -95,3 +95,51 @@ Key preparation and analysis techniques included:
 ## Conclusion
 
 The analysis shows broad improvements in health and economic indicators between 1952 and 2007, while also highlighting substantial differences between continents. It demonstrates that life expectancy, population size and GDP per capita capture different dimensions of development and should be considered together when interpreting long-term development patterns.
+
+
+## Tools & Skills Demonstrated
+
+**Tool:** Microsoft Excel
+
+**Data Analysis**
+- Data cleaning and validation
+- Data quality checking
+- Conditional aggregation
+- Data categorisation and feature creation
+- Trend analysis
+- Comparative analysis
+
+**Excel**
+- IF, AND and ISNUMBER
+- Nested IF statements
+- COUNTIF and AVERAGEIF
+- VLOOKUP
+- FLOOR
+- Excel Tables
+- PivotTables and PivotCharts
+- Filtering and aggregation
+- Chart formatting
+- KPI development
+- Dashboard design
+
+**Communication**
+- Data visualisation
+- KPI reporting
+- Analytical insight generation
+- Stakeholder-focused dashboard design
+- Written analytical reporting
+
+## Explore the Project
+
+To explore the full analysis:
+
+1. Download the Excel workbook from this repository.
+2. Open the workbook in Microsoft Excel.
+3. Start with the `dashboard` worksheet for the high-level results.
+4. Review `Insights_Report` for the written analysis.
+5. Explore `pivot_analysis` and `calculated_fields` for the underlying calculations.
+6. Review `cleaned_data` and `quality_checks` to see the data preparation process.
+
+---
+
+*This project was developed as part of my Data Analyst portfolio to demonstrate practical Excel-based data preparation, analysis, visualisation and reporting skills.*
