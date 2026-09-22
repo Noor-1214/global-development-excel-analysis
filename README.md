@@ -142,4 +142,3 @@ To explore the full analysis:
 
 ---
 
-*This project was developed as part of my Data Analyst portfolio to demonstrate practical Excel-based data preparation, analysis, visualisation and reporting skills.*
