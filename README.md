@@ -69,3 +69,29 @@ Key preparation and analysis techniques included:
 | `charts` | Contains the main analytical visualisations |
 | `dashboard` | Presents KPIs, charts and key insights in one view |
 | `Insights_Report` | Summarises the main analytical findings and conclusions |
+
+
+## Key Findings
+
+### Life Expectancy
+
+- Average life expectancy across the dataset was approximately **59.47 years**.
+- Life expectancy improved across all five continents over the study period.
+- **Asia recorded an increase of approximately 24.41 years** between 1952 and 2007.
+- **Africa recorded an increase of approximately 15.67 years** over the same period.
+- In 2007, **Oceania had the highest average life expectancy at approximately 80.72 years**, followed by Europe at approximately 77.65 years.
+
+### Economic Development
+
+- GDP per capita increased substantially over the study period, although large differences remained between continents.
+- In 2007, **Oceania recorded the highest average GDP per capita at approximately 29,810.19**.
+- **Europe followed at approximately 25,054.48** in 2007.
+
+### Population
+
+- **Asia had the largest population represented in the dataset in 2007, at approximately 3.81 billion people**.
+- This substantially exceeded the other continental groups represented in the analysis.
+
+## Conclusion
+
+The analysis shows broad improvements in health and economic indicators between 1952 and 2007, while also highlighting substantial differences between continents. It demonstrates that life expectancy, population size and GDP per capita capture different dimensions of development and should be considered together when interpreting long-term development patterns.
