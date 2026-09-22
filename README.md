@@ -38,3 +38,34 @@ Three main development indicators were analysed:
 | `GDP_PC` | GDP per capita |
 
 The workbook preserves the original data separately from the cleaned analytical dataset, allowing the data preparation and analysis stages to remain clearly separated.
+
+
+## Data Preparation & Excel Techniques
+
+The raw data was preserved in a separate worksheet before creating a cleaned dataset for analysis. This allowed the original source data to remain unchanged while transformations and validation checks were performed separately.
+
+Key preparation and analysis techniques included:
+
+- **Data quality checks** to identify invalid, missing, or negative values.
+- **IF, AND and ISNUMBER** logic to create validation flags.
+- **FLOOR** to group observations into decades for time-based analysis.
+- **Nested IF statements** to categorise life expectancy values into bands.
+- **VLOOKUP** to map indicator codes to broader development dimensions.
+- **COUNTIF** and **AVERAGEIF** for conditional aggregation.
+- **PivotTables** to compare indicators across years and continents.
+- **PivotCharts** to visualise long-term trends and continental differences.
+- **Filtering and aggregation** to isolate specific indicators and analyse 2007 outcomes.
+- **Dashboard design** to combine KPIs, charts and analytical insights into a single stakeholder-facing view.
+
+## Workbook Structure
+
+| Worksheet | Purpose |
+|---|---|
+| `raw_data` | Preserves the original source data |
+| `cleaned_data` | Contains the cleaned dataset and derived analytical fields |
+| `quality_checks` | Documents data validation and quality checks |
+| `calculated_fields` | Contains formula-based calculations and headline metrics |
+| `pivot_analysis` | Contains PivotTables used for aggregated analysis |
+| `charts` | Contains the main analytical visualisations |
+| `dashboard` | Presents KPIs, charts and key insights in one view |
+| `Insights_Report` | Summarises the main analytical findings and conclusions |
